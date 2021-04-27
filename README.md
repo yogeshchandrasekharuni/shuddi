@@ -4,7 +4,7 @@
 ![shuddhi_smile](https://user-images.githubusercontent.com/46783458/116255987-649be680-a790-11eb-9fa8-abafb00d201e.png)
 
 Documentation:
-You can find a detailed article on how exactly Shuddhi works here.
+You can find a detailed article on how exactly Shuddhi works [here](https://yogeshchandrasekharuni.medium.com/shuddi-a-smart-bot-that-keeps-your-discord-channel-free-of-profanity-5c9cbf30641).
 
 Usage:
 
